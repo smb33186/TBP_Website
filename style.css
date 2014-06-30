@@ -1,0 +1,44 @@
+#sidebar{
+margin: auto;
+border: 4px dotted #000000;
+padding: 10px/10px 20px/20px;
+width: 300px;
+text-align:left;
+
+float:left;
+}
+#main_page{
+margin: auto;
+border: 4px dotted #000000;
+padding: 10px/10px 20px/20px;
+width: 600px;
+text-align:center;
+
+float:right;
+}
+#lower_main{
+margin: auto;
+border: 4px dotted #000000;
+padding: 10px/10px 20px/20px;
+width:600px;
+text-align:center;
+
+float: right;
+clear:both;
+}
+
+p{ 
+font-family: "Calibri";
+color: white;
+background-color: black; 
+}
+
+#footer{
+font-size: 80%;
+clear:both;
+}
+
+a:link	{color:#0C9EED;} 
+a:visited{color:#00FF00;} 
+a:hover	{color:#BEDDED;} 
+a:active{color:#0000FF;}
