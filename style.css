@@ -1,5 +1,5 @@
 body{
-background-color: silver;
+background-color: #A2A4A3;
 width: 90%
 margin: 0 auto;
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -17,7 +17,7 @@ float:right;
 }
 
 #sidebar{
-background-color: #B59147;
+background-color: #CFB87C;
 margin: 1%;
 border: 4px;
 padding: 10px/10px 20px/20px;
