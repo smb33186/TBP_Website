@@ -48,6 +48,9 @@ color: "grey";
 table{
 width:100%;
 }
+td{
+width:14%
+}
 
 #footer{
 font-size: 80%;
